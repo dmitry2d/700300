@@ -1,0 +1,13 @@
+
+a {
+    text-decoration: none;
+
+    &:hover {
+        color: $danger;
+        text-decoration: underline;
+    }
+}
+
+.font-alt {
+    font-family: $font-secondary;
+}
