@@ -2,4 +2,5 @@
 
 import './settings.js';
 import './common.js';
-import './mainmenu.js';
+import './main-menu.js';
+import './index-slider.js';

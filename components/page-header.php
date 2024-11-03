@@ -37,7 +37,7 @@
                             </small>
                         </div>
                         <div class="">
-                            <div class="px-3 w-100 w-sm-75 w-xl-auto text-center m-auto">
+                            <div class="px-2 w-75 w-lg-auto text-center m-auto">
                                 <img src="./assets/img/phone01.png" alt="" class="img-fluid">
                             </div>
                         </div>
