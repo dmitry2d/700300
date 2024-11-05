@@ -11,3 +11,9 @@ a {
 .font-alt {
     font-family: $font-secondary;
 }
+
+.clear-input {
+    outline: none;
+    border: none;
+    background: transparent;
+}
