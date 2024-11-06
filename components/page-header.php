@@ -54,8 +54,10 @@
             <div class="col-lg-3">
                 <div class="d-flex align-items-center justify-content-center">
                     <div class="position-relative pb-2 pe-xl-2">
-                        <img src="./assets/img/cart01.png" alt="" class="w-50 w-lg-75 w-xl-100">
-                        <div class="bg-danger rounded-circle position-absolute bottom-0 end-0 px-2 py-0 border border-3 border-white fw-bold text-white">
+                        <img src="./assets/img/cart01.png" alt="" class="w-50 w-lg-75 w-xl-100 cartimg">
+                        <div
+                            class="bg-danger rounded-circle position-absolute bottom-0 end-0 px-2 py-0 border border-3 border-white fw-bold text-white"
+                            id="totalCount">
                             9
                         </div>
                     </div>

@@ -1,0 +1,15 @@
+
+.advert {
+
+    .advert-banner {
+        a {
+            display: block;
+            aspect-ratio: 4 / 1;
+            @include media-breakpoint-down(lg) {
+                aspect-ratio: 4 / 3;
+            }
+
+        }
+    }
+
+}

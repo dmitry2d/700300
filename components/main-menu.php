@@ -4,22 +4,22 @@
     <div class="container">
 
         <div class="main-menu-items">
-            <a href="">Пицца</a>
-            <a href="">Суши и роллы</a>
-            <a href="">Комбо</a>
-            <a href="">Вок</a>
-            <a href="">Поке</a>
-            <a href="">Грузия</a>
-            <a href="">Напитки</a>
-            <a href="">Закуски</a>
-            <a href="">Салаты</a>
-            <a href="">Десерты</a>
-            <a href="">Супы</a>
-            <a href="">Завтраки</a>
-            <a href="">Пироги</a>
-            <a href="">Пасты и Горячие блюда</a>
-            <a href="">Детское меню</a>
-            <a href="">Ланч-Комбо</a>
+            <a href="./catalogue-category.php">Пицца</a>
+            <a href="./catalogue-category.php">Суши и роллы</a>
+            <a href="./catalogue-category.php">Комбо</a>
+            <a href="./catalogue-category.php">Вок</a>
+            <a href="./catalogue-category.php">Поке</a>
+            <a href="./catalogue-category.php">Грузия</a>
+            <a href="./catalogue-category.php">Напитки</a>
+            <a href="./catalogue-category.php">Закуски</a>
+            <a href="./catalogue-category.php">Салаты</a>
+            <a href="./catalogue-category.php">Десерты</a>
+            <a href="./catalogue-category.php">Супы</a>
+            <a href="./catalogue-category.php">Завтраки</a>
+            <a href="./catalogue-category.php">Пироги</a>
+            <a href="./catalogue-category.php">Пасты и Горячие блюда</a>
+            <a href="./catalogue-category.php">Детское меню</a>
+            <a href="./catalogue-category.php">Ланч-Комбо</a>
         </div>
 
         <div class="main-menu-close">

@@ -7,23 +7,27 @@
         </span>
     </div>
 
-    <div class="row row-cols-1 row-cols-md-2 justify-content-around gy-5">
+    <div class="row row-cols-2 justify-content-around">
 
         <div class="col d-flex justify-content-center text-center">
 
-            <div class="item px-2 w-75 w-xl-50" data-id="584" data-price="1600">
-                <img src="./assets/img/temp_/often01.png" class="img-fluid">
-                <h3 class="mt-4" style="height: 4em;">
+            <div class="item w-lg-50" data-id="584" data-price="1600">
+                <div class="aspect-square">
+                    <img src="./assets/img/temp_/often01.png" class="img-fit">
+                </div>
+                <h3 class="mt-4 fs-4 fs-lg-3" style="height: 4em;">
                     <a href="" class="text-black">Комбо "2 пиццы + 2 лимонада"</a>
                 </h3>
-                <div class="" style="height: 8em;">Римини, Поло Барбекю, два лимонада Brewmen на выбор. Диаметр пицц 27-30.</div>
-                <div class="d-flex align-items-center">
-                    <div class="count bg-secondary-subtle font-alt w-50">
+                <div class="" style="height: 8em;">
+                    Римини, Поло Барбекю, два лимонада Brewmen на выбор. Диаметр пицц 27-30.
+                </div>
+                <div class="d-flex flex-column flex-lg-row align-items-center justify-content-center">
+                    <div class="count bg-secondary-subtle font-alt w-lg-50">
                         <button class="dec clear-input fs-4">-</button>
                         <input type="text" name="count" value="0" size="3" class=" clear-input text-center fs-4">
                         <button class="inc clear-input fs-4">+</button>
                     </div>
-                   <div class="price w-50 text-center fs-4">
+                   <div class="price w-lg-50 text-center fs-4">
                         <span>1600</span> ₽
                     </div>
                 </div>
@@ -36,19 +40,23 @@
 
         <div class="col d-flex justify-content-center text-center">
 
-            <div class="item px-2 w-75 w-xl-50" data-id="584" data-price="1600">
-                <img src="./assets/img/temp_/often02.png" class="img-fluid">
-                <h3 class="mt-4" style="height: 4em;">
+            <div class="item w-lg-50" data-id="584" data-price="1600">
+                <div class="aspect-square">
+                    <img src="./assets/img/temp_/often02.png" class="img-fit">
+                </div>
+                <h3 class="mt-4 fs-4 fs-lg-3" style="height: 4em;">
                     <a href="" class="text-black">Комбо "5 пицц"</a>
                 </h3>
-                <div class="" style="height: 8em;">Римини, Поло Барбекю, два лимонада Brewmen на выбор. Диаметр пицц 27-30.</div>
-                <div class="d-flex align-items-center">
-                    <div class="count bg-secondary-subtle font-alt w-50">
+                <div class="" style="height: 8em;">
+                    Римини, Поло Барбекю, два лимонада Brewmen на выбор. Диаметр пицц 27-30.
+                </div>
+                <div class="d-flex flex-column flex-lg-row align-items-center justify-content-center">
+                    <div class="count bg-secondary-subtle font-alt w-lg-50">
                         <button class="dec clear-input fs-4">-</button>
                         <input type="text" name="count" value="0" size="3" class=" clear-input text-center fs-4">
                         <button class="inc clear-input fs-4">+</button>
                     </div>
-                   <div class="price w-50 text-center fs-4">
+                   <div class="price w-lg-50 text-center fs-4">
                         <span>1600</span> ₽
                     </div>
                 </div>
