@@ -26,6 +26,7 @@
                 content: "";
             }
 
+            &.active,
             &:hover {
                 text-decoration: none;
                 color: $danger;
@@ -34,7 +35,7 @@
                     content: "";
                     bottom: 2px;
                     left: -2px;
-                    right: 2px;
+                    right: -2px;
                     height: 2px;
                     background: $danger;
                 }

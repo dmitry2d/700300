@@ -4,7 +4,7 @@
     <div class="container">
 
         <div class="main-menu-items">
-            <a href="./catalogue-category.php">Пицца</a>
+            <a href="./catalogue-category.php" class="active">Пицца</a>
             <a href="./catalogue-category.php">Суши и роллы</a>
             <a href="./catalogue-category.php">Комбо</a>
             <a href="./catalogue-category.php">Вок</a>

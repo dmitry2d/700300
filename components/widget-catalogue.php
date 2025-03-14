@@ -5,7 +5,7 @@
     <div class="row row-cols-2 row-cols-lg-3 row-cols-xl-4 fs-4 justify-content-center g-1">
 
         <div class="col">
-            <a href="" class="p-3 catalogue-item">
+            <a href="./catalogue-category.php" class="p-3 catalogue-item">
                 <div class="catalogue-image">
                     <img src="./assets/img/temp_/cat01.png">
                 </div>

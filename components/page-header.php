@@ -6,10 +6,10 @@
             <div class="d-xl-flex justify-content-between text-secondary font-alt">
                 <div class="text-center d-none d-md-block">Служба горячей доставки Gourmetto в Великом Новгороде</div>
                 <div class="d-flex flex-wrap justify-content-center">
-                    <a href="" class="text-secondary mx-2">О ДОСТАВКЕ</a>
-                    <a href="" class="text-secondary mx-2">КОНТАКТЫ</a>
-                    <a href="" class="text-secondary mx-2">АКЦИИ</a>
-                    <a href="" class="text-secondary mx-2">ГАРАНТИЯ СКОРОСТИ И КАЧЕСТВА</a>
+                    <a href="./delivery.php" class="text-secondary mx-2">О ДОСТАВКЕ</a>
+                    <a href="./contacts.php" class="text-secondary mx-2">КОНТАКТЫ</a>
+                    <a href="./actions.php" class="text-secondary mx-2">АКЦИИ</a>
+                    <a href="./guarantee.php" class="text-secondary mx-2">ГАРАНТИЯ СКОРОСТИ И КАЧЕСТВА</a>
                 </div>
             </div>
         </div>
@@ -22,9 +22,9 @@
                 <i class="fa fa-bars" aria-hidden="true"></i>
             </div>
             <div class="col-lg-3">
-                <div class="page-header__logo text-center text-lg-start my-3">
+                <a href="./index.php" class="page-header__logo text-center text-lg-start my-3">
                     <img src="./assets/img/logo.png" alt="" class="img-fluid w-25 w-lg-auto">
-                </div>
+                </a>
             </div>
             <div class="d-lg-none border border-secondary-subtle mt-2 mb-3"></div>
             <div class="col-lg-6">
@@ -62,7 +62,7 @@
                         </div>
                     </div>
                     <div class="">
-                        <a href="" class="fw-bold text-black fs-5 ps-3">
+                        <a href="./cart.php" class="fw-bold text-black fs-5 ps-3">
                             1200 руб.
                         </a>
                     </div>
