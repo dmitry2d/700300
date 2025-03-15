@@ -3,13 +3,13 @@
 
     <div class="bg-secondary-subtle py-2">
         <div class="container">
-            <div class="d-xl-flex justify-content-between text-secondary font-alt">
+            <div class="d-xl-flex justify-content-between font-alt">
                 <div class="text-center d-none d-md-block">Служба горячей доставки Gourmetto в Великом Новгороде</div>
                 <div class="d-flex flex-wrap justify-content-center">
-                    <a href="./delivery.php" class="text-secondary mx-2">О ДОСТАВКЕ</a>
-                    <a href="./contacts.php" class="text-secondary mx-2">КОНТАКТЫ</a>
-                    <a href="./actions.php" class="text-secondary mx-2">АКЦИИ</a>
-                    <a href="./guarantee.php" class="text-secondary mx-2">ГАРАНТИЯ СКОРОСТИ И КАЧЕСТВА</a>
+                    <a href="./delivery.php" class="mx-2">О ДОСТАВКЕ</a>
+                    <a href="./contacts.php" class="mx-2">КОНТАКТЫ</a>
+                    <a href="./actions.php" class="mx-2">АКЦИИ</a>
+                    <a href="./guarantee.php" class="mx-2">ГАРАНТИЯ СКОРОСТИ И КАЧЕСТВА</a>
                 </div>
             </div>
         </div>
